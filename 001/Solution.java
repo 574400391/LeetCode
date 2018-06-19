@@ -14,5 +14,6 @@ public class Solution{
             }
         }
         throw new IllegalArgumentException("没有找到解");
+        
     }
 }

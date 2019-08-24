@@ -1,6 +1,6 @@
 class Solution{
 
-    public String countArray(int n){
+    public String countAndSay(int n){
         if (n <= 0) {
             return "";
         }
@@ -22,4 +22,5 @@ class Solution{
         }
         return result;
     }
+
 }

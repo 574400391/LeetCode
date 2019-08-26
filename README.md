@@ -15,9 +15,9 @@
 
 ## TODO
 ### 简易难度：
-0020.Valid Parentheses
-0026.remove-duplicates-from-sorted-array
-0053.maximum-sum-subarray 🆕
+- [0020.Valid Parentheses](/Solution/020/README.md)
+- [0026.remove-duplicates-from-sorted-array](/Solution/026/README.md)
+- [0053.maximum-sum-subarray](/Solution/053/README.md)
 0088.merge-sorted-array
 0104.maximum-depth-of-binary-tree
 0121.best-time-to-buy-and-sell-stock

@@ -1,2 +1,10 @@
 
 .vscode/launch.json
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/.gitignore
+/.idea/codeStyles
+/.idea/encodings.xml
+/.idea/Leetcode.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
